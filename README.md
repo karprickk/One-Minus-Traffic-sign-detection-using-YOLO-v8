@@ -11,3 +11,10 @@ Unique aspects of our project include custom optimizations to the YOLO v8 archit
 for immediate driver notification.
 
 Significant results demonstrate our model's superior performance and high accuracy in detection accuracy and processing speed compared to existing solutions.
+
+Potential Impact:
+
+•	This project has the potential to significantly enhance road safety by providing drivers and autonomous vehicles with accurate and timely information about traffic signs.
+•	The real-time processing nature of the system makes it suitable for integration into autonomous vehicles, advanced driver assistance systems (ADAS), and traffic management systems.
+•	By reducing the risk of accidents and improving traffic flow, this project can contribute to safer and more efficient transportation systems, benefiting both individuals and society.
+
